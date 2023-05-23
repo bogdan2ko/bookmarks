@@ -49,10 +49,10 @@ python manage.py runserver
 The application should now be accessible at http://localhost:8000/.
 
 ## Usage
-Access the application using the provided URL.
-Create an account or log in using one of the supported social media accounts.
-Add bookmarks, edit their details, assign categories, and perform searches.
-Enjoy managing your bookmarks efficiently!
+1.Access the application using the provided URL.
+2.Create an account or log in using one of the supported social media accounts.
+3.Add bookmarks, edit their details, assign categories, and perform searches.
+4.Enjoy managing your bookmarks efficiently!
   
 
 
